@@ -14,11 +14,11 @@ Overview of the programs :-
 
 7. Convert minutes into hours.
 
-8. Convert dollars into Rs. Where IS = 48Rs
+8. Convert dollars into Rs. Where 1$ = 48Rs
 
-9. Convert Rs. into dollars where 1 S = 48Rs
+9. Convert Rs. into dollars where 1$ = 48Rs
 
-10.Convert dollars into pound where s = 48 Rs. And I pound = 70 Rs.
+10.Convert dollars into pound where 1$ = 48 Rs. And 1 pound = 70 Rs.
 
 11.Convert grams into kg.
 
