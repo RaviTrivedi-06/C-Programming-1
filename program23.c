@@ -6,7 +6,7 @@
                 scanf("%f",&sub1);
 
                 float sub2;
-                printf("\nEnter the marks obtained in Subkect 2 : ");
+                printf("\nEnter the marks obtained in Subject 2 : ");
                 scanf("%f",&sub2);
 
                 float sub3;
@@ -22,4 +22,5 @@
                  return 0;
 
             }
+
 
