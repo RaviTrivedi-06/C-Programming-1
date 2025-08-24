@@ -42,9 +42,9 @@ Overview of the programs :-
 
 21.Calculate net salary
 
-where net salary gross salary + allowance - deduction. Allowances are 10% while deductions are 3% of gross salary.
+where net salary = gross salary + allowance - deduction. Allowances are 10% while deductions are 3% of gross salary.
 
-22. Calculate net sales where net sales gross sales-10% discount of gross sales.
+22. Calculate net sales where net sales = gross sales-10% discount of gross sales.
 
 23.Calculate average of three subjects along with their total.
 
