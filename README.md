@@ -32,13 +32,13 @@ Overview of the programs :-
 
 16.Calculate interest where I = PRN / 100 .
 
-17.Calculate area & perimeter of a square. A = L ^ 2 P = 4L
+17.Calculate area & perimeter of a square. A = L*L ; P = 4L
 
-18. Calculate area & perimeter of a rectangle. A =L^ * B P = 2(L + B)
+18. Calculate area & perimeter of a rectangle. A =L* B ; P = 2(L + B)
 
-19.Calculate area of a circle. A= 22/7 bullet R^ * R
+19.Calculate area of a circle. A= 22/7 * R * R
 
-20. Calculate area of a triangle. A=H^ * L / 2
+20. Calculate area of a triangle. A= H * L / 2
 
 21.Calculate net salary
 
